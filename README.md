@@ -1,6 +1,6 @@
 
 
-## 🌟 Features
+##  Features
 *   Discover the most popular and the most rated movies
 *   User can view and play trailers on youtube 
 *   Shows a list of reviews for each movie
